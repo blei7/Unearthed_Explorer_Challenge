@@ -1,0 +1,105 @@
+---
+title: "2d_prospectivity_map"
+author: "Bailey"
+date: "30/05/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(ggplot2)
+library(sampling)
+
+library(ggmap)
+library(maptools)
+library(scatterplot3d)
+
+```
+
+## Gold Prospectivity Map
+
+
+```{r cars}
+df_ds = read.csv("assays_collars_mag_gravity_all.csv")
+df = read.csv("top_gold_predictions_200.csv")
+df_gold_10 = read.csv("final_gold_submission.csv")
+
+
+
+
+
+
+#make the primary map layer for gold deposit at Mt wood at different zooming level
+map = get_map(location = c(135.255,-29.43), zoom = 6, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map)  + geom_density2d(aes(x = lon, y = lat), data = df, size = 1, geom="polygon")+stat_density2d(data = df,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE) +geom_point(aes(x = lon, y = lat), data = df_gold_10, size = 1, geom="polygon", shape=23, fill="yellow", color="black") + geom_point(aes(x = lon, y = lat), data = df_ds, size = 1)
+
+map = get_map(location = c(135.255,-29.43), zoom = 9, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map)  + geom_density2d(aes(x = lon, y = lat), data = df, size = 1, geom="polygon")+stat_density2d(data = df,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE) +geom_point(aes(x = lon, y = lat), data = df_gold_10, size = 1, geom="polygon", shape=23, fill="yellow", color="black") + geom_point(aes(x = lon, y = lat), data = df_ds, size = 1)
+
+map = get_map(location = c(135.265,-29.43), zoom = 14, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map)  + geom_density2d(aes(x = lon, y = lat), data = df, size = 1, geom="polygon")+stat_density2d(data = df,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE) +geom_point(aes(x = lon, y = lat), data = df_gold_10, size = 1, geom="polygon", shape=23, fill="yellow", color="black") + geom_point(aes(x = lon, y = lat), data = df_ds, size = 1)
+
+
+map = get_map(location = c(135.24,-29.43), zoom = 14, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map)  + geom_density2d(aes(x = lon, y = lat), data = df, size = 1, geom="polygon")+stat_density2d(data = df,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE)
+
+
+
+map = get_map(location = c(135.28,-29.425), zoom = 15, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map)  + geom_density2d(aes(x = lon, y = lat), data = df, size = 1, geom="polygon")+stat_density2d(data = df,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE)+geom_point(aes(x = lon, y = lat), data = df_gold_10, size = 2, geom="polygon", shape=23, fill="yellow", color="black")
+
+
+
+
+```
+
+## Copper Prospectivity Map
+
+
+```{r pressure, echo=FALSE}
+df_cu = read.csv("top_copper_predictions_200.csv")
+df_copper_10 = read.csv("final_copper_submission.csv")
+
+register_google(key = "AIzaSyDb-BA2FjpKax0xYQl1EM3X8ZmukUo95CA")
+
+
+
+#make the primary map layer for copper deposit at Mt wood at different zooming level
+
+map_cu = get_map(location = c(135.255,-29.43), zoom = 6, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map_cu)  + geom_density2d(aes(x = lon, y = lat), data = df_cu, size = 1, geom="polygon")+stat_density2d(data = df_cu,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE) + geom_point(aes(x = lon, y = lat), data = df_copper_10, size = 1) + geom_point(aes(x = lon, y = lat), data = df_ds, size = 1)
+
+map_cu = get_map(location = c(135.5,-29.43), zoom = 10, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map_cu)  + geom_density2d(aes(x = lon, y = lat), data = df_cu, size = 1, geom="polygon")+stat_density2d(data = df_cu,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE) + geom_point(aes(x = lon, y = lat), data = df_copper_10, size = 1, geom="polygon", shape=23, fill="orange", color="black") + geom_point(aes(x = lon, y = lat), data = df_ds, size = 1)
+
+
+map_cu = get_map(location = c(135.26,-29.43), zoom = 13, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map_cu)  + geom_density2d(aes(x = lon, y = lat), data = df_cu, size = 1, geom="polygon")+stat_density2d(data = df_cu,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE) + geom_point(aes(x = lon, y = lat), data = df_copper_10, size = 2, geom="polygon", shape=23, fill="orange", color="black")
+
+
+map_cu = get_map(location = c(135.28,-29.425), zoom = 15, scale = "auto",  maptype = "satellite")
+
+
+ggmap(map_cu)  + geom_density2d(aes(x = lon, y = lat), data = df_cu, size = 1, geom="polygon")+stat_density2d(data = df_cu,aes(x = lon, y = lat, fill = ..level.., alpha = ..level..), size = 0.01, bins = 16, geom = "polygon") + scale_fill_gradient(low = "green", high = "red") + scale_alpha(range = c(0, 0.3), guide = FALSE)
+
+
+
+```
+
