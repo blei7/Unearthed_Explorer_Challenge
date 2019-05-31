@@ -1,0 +1,71 @@
+STRUCTURE,DESCRIPTION,,,,,INFILL,DESCRIPTION,,,SHAPE,DESCRIPTION
+<F,Microfault,,,,,AK,Ankerite,,,C,Curved
+<V,Micro vein,,,,,BA,Barite,,,I,Irregular
+>V,Macro vein,,,,,BI,Biotite,,,P,Planar
+B,Breccia (mineral subscript),,,,,BN,Bornite,,,S,Stepped
+BED,Bedding,,,,,CA,Calcite,,,U,Undulating
+CNT,Contact,,,,,CB,Carbonate,,,,
+CV,Cleavage,,,,,CC,Chalcocite,,,,
+F,Fault,,,,,CH,Chlorite Fill,,,GRAINSIZE,DESCRIPTION
+F1,Line - Fold axis - 1,,,,,CHEP,Chlorite-epidote fill,,,CG,COARSE GRAINED
+F2,Line - Fold axis - 2,,,,,CHPY,Chlorite-pyrite Fill,,,FG,FINE GRAINED
+FLTMAJ,Fault - Major,,,,,CL,Clay fill,,,MG,MEDIUM GRAINED
+FOLMIN,Foliation - Minor,,,,,CP,Chalcopyrite fill,,,VCG,VERY COARSE GRAINED
+FOLWK,Foliation - Weak,,,,,CU,Native Copper,,,VFG,VERY FINE GRAINED
+FR,Fracture,,,,,CY,Clay,,,,
+FV,Fault - with infill / movement,,,,,DO,Dolomite fill,,,,
+JNT,Joint,,,,,EP,Epidote fill,,,COMPLEXITY,DESCRIPTION
+LA,Line - Axis of anastomosing,,,,,FE,Iron oxide fill,,,MS,"Multi Stage - multiple fractures, fault planes, infilling, altering event. Contains overprinting fracturing or overprinting selvedge."
+LMN,"Line - Intersection axis of 2 planes Sm,  Sn",,,,,FL,Fluorite,,,SS,"Single Stage - single fracturing, infilling, altering event. Simple geometry +/- layering with growth bands and Zoned."
+LT,Tension Vein Array Axis,,,,,FS,Felsdpar,,,,
+LX,Line - Mineral Lineatio,,,,,GY,Gypsum fill,,,,
+S1,Foliation - 1,,,,,HB,Hornblende,,,QUALIFIER,DESCRIPTION
+S2,Foliation - 2,,,,,HD,Hematite - Dark Grey,,,GL,Granular - grains in equant texture (saccharoidal)
+SB,Banding,,,,,HE,old_Haematite - red earthy,,,LM,Laminated - finely layered infill
+SF,Foliation (undiff),,,,,HM,Hematite,,,MS,Massive - unifom texture with no discrete fractures
+SG,Gneissic,,,,,HR,Old_Hematite - red rock,,,MW,Matching Walls/Parallel - vein walls match across void/infill
+SHRMAJ,Shear - Major,,,,,HS,Hessite,,,VY,Vuggy - visible voids often with crystal infill on margins
+SHRMIN,Shear - Minor,,,,,KF,K - feldspar,,,WA,Wallrock Screens - narrow slivers of wall rock broken parallel to vein and remain insitu
+SI,Igneous Flow Banding,,,,,LM,Limonite,,,ZO,"Zoned - spatial zoning of mineral assemblages, describing infill or selvedge"
+SS,Schistosity,,,,,LM,Laminated - finely layered infill,,,,
+SW,Breccia wall,,,,,MO,Molybdenite fill,,,,
+SX,Breccia Layering,,,,,MT,Magnetite,,,KINEMATIC_VN_TYPE,DESCRIPTION
+SZ,Shear Zone,,,,,PO,Pyrrhotite,,,SH,Shear Veins - formed by fracturing and faulting along vein walls
+VN,Vein,,,,,PX,Pyrite breccia,,,TV,Tension Veins - formed by extension normal to vein walls
+VOLLAY,Layering in volcanics / phenocyrsts aligned,,,,,PY,Pyrite fill,,,VC,Tension & Fault Veins
+VX,Breccia vein,,,,,QC,Quartz-calcite fill,,,,
+,,,,,,QL,Quartz-chlorite fill,,,,
+,,,,,,QLX,Quartz-chlorite breccia,,,JOINT_ALT,DESCRIPTION
+,,,,,,QT,Quartz,,,A,"Tightly healed, hard non-softening impermeable filling eg quartz"
+,,,,,,SD,Siderite,,,B,"Unaltered joint walls, surface staining only eg chlorite, <5mm carbonate or rock"
+,,,,,,SE,Sericite Fill,,,C,"Slightly altered joint walls, clay or chlorite veneer, 5-10mm carbonate or rock"
+,,,,,,SI,Silica,,,D,"Soft clay or mineral coatings 1-2mm, carbonate or crushed rock >10mm"
+,,,,,,,,,,E,"Soft clay or mineral coatings >2mm, carbonate or crushed rock >25mm"
+,,,,,,,,,,,
+,,,,,,SELVAGE,DESCRIPTION,,,,
+,,,,,,AK,Ankerite,,,FAULT_TEXTURE,DESCRIPTION
+,,,,,,BI,Biotite,,,BX,BRECCIA ZONE - broken rock with defined boundaries
+,,,,,,BN,Bornite,,,FI,FIBRES - parallel prismatic mineral grains
+,,,,,,CA,Calcite,,,FO,"FOLIATED ZONE - generally narrow, tabular (shear zone)"
+,,,,,,CB,Carbonate,,,FZ,"FRACTURE ZONE - sheeted parallel fractures, tabular, narrow (fault zone)"
+,,,,,,CH,Chlorite,,,GO,GOUGE - Broken rock with soft matrix (clays) defined by finer abraded wallrock.
+,,,,,,CP,Chalcopyrite,,,PL,PLANE /SINGLE - movement along a single surface with slickenslides or fibres
+,,,,,,CY,Clay,,,,
+,,,,,,DS,Diopside,,,,
+,,,,,,EP,Epidote,,,,
+,,,,,,FL,Fluorite,,,,
+,,,,,,GY,Gypsum,,,,
+,,,,,,HDG,Hematite - Dark Grey,,,,
+,,,,,,HM,Hematite,,,,
+,,,,,,HRE,Hematite - Red Earthy,,,,
+,,,,,,HRR,Hematite - Red Rock,,,,
+,,,,,,HSG,Hematite - Steely Grey,,,,
+,,,,,,HSP,Hematite - Specular,,,,
+,,,,,,KF,K - feldspar,,,,
+,,,,,,LM,Limonite,,,,
+,,,,,,MT,Magnetite,,,,
+,,,,,,PO,pyrrhotite,,,,
+,,,,,,PY,Pyrite,,,,
+,,,,,,QT,Quartz,,,,
+,,,,,,SD,Siderite,,,,
+,,,,,,SE,Sericite,,,,

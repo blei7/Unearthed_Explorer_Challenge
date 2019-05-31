@@ -1,0 +1,229 @@
+LAB_ID,LAB_METHOD,GENERIC_METHOD,LAB_DIGEST,LAB_DETERMINATION,REMARKS
+ALS,Au-AA15ve,LW-AAS-Au-V,LW,AAS,ALS LW for Au analyses - done at Vientiane
+ALS,AU-AA21,FA-AAS-S30,FA,AAS,NULL
+ALS,AU-AA22,FA-AAS-S50,FA,AAS,NULL
+ALS,Au-AA23,FA-AAS-30L,FA,AAS,NULL
+ALS,Au-AA25,FA-AAS,FA,AAS,"30g fire assay, AAS finish"
+ALS,Au-AA25D,FA-AAS-30D,FA,AAS,"30g fire assay, AAS finish, D suffix (Dilute? Duplicate?)"
+ALS,Au-AA25T,Au-AA25T,FA,UNK,NULL
+ALS,Au-AA26,FA-AAS-50,FA,AAS,Method added 9-5-2006
+ALS,Au-AA26D,FA-AAS-50D,FA,AAS,Dilute equivalent of method Au-AA26
+ALS,Au-DIL,FA-AAS-DIL,FA,AAS,Volume dilution of the solution from the fire assay process for when Au reads above the normal calibration range.
+ALS,Au-ICP21,FA-ICPAES,FA,ICPAES,Au by fire Assay and ICP-AES - ALS - Au-ICP21
+ALS,Au-SCR22AA,SFA-AAS-200,SFA,AAS,Screen Fire Assay with AAS finish on +200# (75micron) fraction. -200# fraction fire assayed with method Au-AA26.
+ALS,Au-SCRAA,SFA-AAS,SFA,AAS,NULL
+ALS,CRU-QC,SP-CRU,None,None,Internal lab QC check on crushing performance.
+ALS,Cu-AA15ve,LW-AAS-Cu-V,LW,AAS,ALS LW for Cu analyses - done at Vientiane
+ALS,Cu-OG46,AR-OG46CU,AR,ICPAES,NULL
+ALS,G001 L.O.R,G001 L.O.R,UNK,UNK,Historic
+ALS,ME-ICP41,AR-ICPAES,AR,ICPAES,NULL
+ALS,ME-ICP61,4A-ICPAES,HPHN,ICPAES,NULL
+ALS,ME-ICPDil,AR-ICPAES-D,AR,ICPAES,Method added 9-5-2006
+ALS,ME-MS41,AR-ICPAESMS,AR,ICPAESMS,NULL
+ALS,ME-MS42,AR-ICPMS,AR,ICPMS,NULL
+ALS,ME-MS61,4A-ICP,HPHN,ICP,NULL
+ALS,ME-MS62,4A-ICPMS-G,HPHN-G,ICPMS,NULL
+ALS,ME-MS81,LBFN-ICPMS,LBF-N,ICPMS,Lithium borate fusion of the sample prior to acid dissolution and ICPMS analysis
+ALS,ME-OG46,AR-OG46,AR,ICPAES,NULL
+ALS,ME-OG62,MA-OG,MA,ICPAES,NULL
+ALS,ME-XRF05,XRF,NA,XRF,Pressed Powder XRF
+ALS,OA-GRA08,SG,None,None,Specific Gravity
+ALS,Pb-OG46,AR-OG46PB,AR,ICPAES,NULL
+ALS,PM209 L.O.R,PM209 L.O.R,UNK,UNK,Historic
+ALS,PM219 L.O.R,PM219 L.O.R,UNK,UNK,Historic
+ALS,PUL-QC,SP-PUL,None,None,Internal lab QC check on pulverising
+ALS,SeqNo,SeqNo,None,None,Sample Sequence Number
+ALS,WEI-21,Wt,None,None,Method added for Anglo
+ALS,WEI-25,Wt_Res,None,None,Weight of the crusher residue.
+ALS,Zn-OG46,AR-OG46ZN,AR,ICPAES,NULL
+ALS_AD,Au-AA21,FA30-AAS,FA,AAS,30g nominal weight
+ALS_AD,Au-AA25,FA-AAS_OG,FA,AAS,Ore Grade 30g nominal weight
+ALS_AD,Cu-OG62,4A-ICPAES,HPHN,ICPAES,Four Acid Digestion with ICP-AES
+ALS_AD,ME-ICP61,ME-ICP61,HPHN,ICPAES,"Four acid digest, ICP-AES finish, near total result for some elements"
+ALS_AD,ME-MS61,4A-ICPMS,HPHN,ICPMS,"HF-HNO3-HClO4 digestion,  followed by HCl leach"
+ALS_AD,ME-MS62,ME-MS62,HPHN,ICPMS,"Four acid digest, ICP-AES finish, near total result for some elements"
+ALS_AD,ME-MS81,LB-ICPMS,LMF,ICPMS,"Lithium borate fusion, ICP-MS finish"
+ALS_AD,ME-MS81h,LB-ICPMS_OG,LMF,ICPMS,"Lithium boriate fusion, ICP-MS finish, REE ore grade, high sample:volume ratio"
+ALS_AD,ME-OG62,4A-ICPAES_OG,HPHN,ICPAES,Four acid digest using HF with ICP-AES finish
+ALS_AD,PUL-QC,SIZING,NA,NA,NULL
+ALS_MI,Ag-OG46,4A-ICPMS_OG,HPHN,ICPMS,NULL
+ALS_MI,Au-AA25,FA30-AAS,FA,AAS,NULL
+ALS_MI,CRU-QC,N/A,NULL,NULL,NULL
+ALS_MI,Cu-OG46,4A-ICPMS_OG,NULL,NULL,NULL
+ALS_MI,Cu-OG62,4A-ICPMS_OG,HPHN,ICPMS,NULL
+ALS_MI,ME-MS61,ME-ICP61,HPHN,ICPMS,NULL
+ALS_MI,Pb-OG46,4A-ICPMS_OG,HPHN,ICPMS,NULL
+ALS_MI,PUL-QC,PUL-QC,NULL,NULL,NULL
+ALS_MI,WEI-21,WEIGHT-KG,NULL,NULL,NULL
+ALS_MI,Zn-OG46,4A-ICPMS_OG,HPHN,ICPMS,NULL
+ALS_PT,Au-AA23,FA-AAS,FA,AAS,NULL
+ALS_PT,ME-MS61,4A-ICPMS,HPHN,ICPMS,NULL
+ALSCH,Au-ICP21,FA-ICPAES,FA,ICPAES,NULL
+ALSCH,ME-ICP61,4A-NEARTOTAL2,HPHN,ICPAES,NULL
+ALSCH,ME-ICP81,4A-NEARTOTAL3,HPHN,ICPAES,NULL
+ALSCH,ME-MS61,4A-NEARTOTAL,HPHN,ICPAES,ICPMS also used
+ALSCH,PUL-QC,PUL-QC,NA,NA,Sample Prep QC
+ALSCH,WEI-21,WEIGHT-KG,NA,NA,NULL
+ALSOLD,A101,AR-A101,AR,AAS,NULL
+ALSOLD,A102,4A-A102,HPHN,AAS,NULL
+ALSOLD,Au-DIL,AR-ICPDIL2,NULL,NULL,Method added 9-5-2006
+ALSVAN,Au-ICP21,FA-ICPAES,FA,ICPAES,NULL
+ALSVAN,ME-ICP61,4A-NEARTOTAL2,HPHN,ICPAES,NULL
+ALSVAN,ME-ICP81,4A-NEARTOTAL3,HPHN,ICPAES,NULL
+ALSVAN,ME-MS61,4A-NEARTOTAL,HPHN,ICPAES,ICPMS also used
+ALSVAN,PUL-QC,PUL-QC,NA,NA,Sample Prep QC
+ALSVAN,WEI-21,WEIGHT-KG,NA,NA,NULL
+AMDEL,AA10,AR-AAS,AR,AAS,NULL
+AMDEL,AA9,FA-GFAAS,AR,GFAAS,A subsample of 40 g of the analytical pulp is digested with aqua-regia.  The resulting gold in solution is extracted into DIBK and quantified on a graphite furnace AAS.  Range to 150 ppb.
+AMDEL,FA1,FA-AAS,FA,AAS,NULL
+AMDEL,FA1PH,FA-AASPH,FA,AAS,A subsample of up to 40 g of the analytical pulp is fused in a lead collection fire assay.  The resultant prill is digested in aqua-regia and the gold content of the sample determined by AAS (fire assay with AAS finish).
+AMDEL,FA3,FA-AAS-40,FA,AAS,A subsample of 40 g of the analytical pulp is fused in a lead collection fire assay.  The resulting prill is digested in aqua-regia and the gold content of the sample is determined by graphite furnace AAS
+AMDEL,FA3E,FA-ICPOES,FA,ICP-OES,A subsample of up to 40 g of the analytical pulp is fused in a lead collection fire assay.  The resultant prill is digested in aqua-regia and the gold content of the sample is determined by ICP-OES (fire assay with ICP-OES finish).
+AMDEL,IC2E,AR-ICPOES,AR,ICPOES,"A subsample of 0.5 g of the analytical pulp is digested with aqua-regia and then bulked to volume with water.  The solution is presented to an ICPOES for quantification of the elements of interest.  Range is to 0.5% except Fe (10%), Mn (1%), Ag (100 ppm)."
+AMDEL,IC3E,MA-ICPOES,MA,ICP-OES,NULL
+AMDEL,IC3M,MAHF-ICPMS,MA/HF,ICP-MS,A nominal subsample of 0.2 g of the analytical pulp is digested using an HF/multi acid digest and the solution is presented to an ICPMS for the quantification of the elements of interest
+AMDEL,IC3R,MA-ICPMS,MA/HF,ICP-MS,Rare Earth Suite
+AMDEL,IC4,AF-ICPOES,AF,ICP-OES,AF = Alkali Fustion digest (100% Digest).  The sample is mixed with a flux and fused to form a glass bead which is then dissolved by acid digest.
+AMDEL,IC4E,AF-ICPOESE,AF,ICP-OES,NULL
+AMDEL,IC4M,AF-ICPMS,AF,ICP-MS,NULL
+AMDEL,IC4PH,AF-ICPOESPH,NULL,NULL,NULL
+AMDEL,IC4PHR,AF-ICPOESPHR,AF,MS/OES,"A 0.1 g subsample of the analytical pulp is fused with lithium metaborate followed by dissolution to give a total solution.   The solution is presented to an ICPOES and an ICPMS for the determination of elements of interest (alkali fusion, dissolved in solution – total digest, ICP-OES and ICP-MS finish)."
+AMDEL,MET1,AR-ICPAES,AR,ICP,NULL
+AMDEL,MET1PH,AR-ICPAESPH,AR,ICP-OES,"A multi-element suite of elements by ICP and is used where ore grade levels are present.  A modified aqua-regia /perchloric acid attack is used to dissolve the elements being analysed and the solution is presented to an ICP-OES for the elements of interest (modified aqua regia/perchloric digest, ICP-OES finish).  "
+AMDEL,MET1PM,AR-ICPMS,AR,ICP-MS,"A  subsample is digested in aqua regia, and presented to an ICPMS for quantification of the elements of interest (aqua regia digest, ICP-MS finish)."
+AMDEL,MET1PM-AESPM,AR-ICPAESPM,Ar,ICPMS,NULL
+AMDEL,MET6A,LECO,NA,LECO,NULL
+AMDEL,MET6A-A,AR-ICPAESA,NA,LECO,NULL
+AMDEL,SeqNo,SeqNo,None,None,Sample Sequence Number
+AMDEL,SIE3,SPF-SIE,SPF,SIE-F,NULL
+AMDEL,SIE3S,SPF-SIES,SPF,SIE-S,NULL
+AMDEL,SIZING,SIZE,NA,SIVE,NULL
+AMDEL,UNK,UNK,NULL,NULL,Unknown method. 
+AMDEL,WEIGHT,WEIGHT,NA,MASS,NULL
+AMDEL,XRF1,SI-XRF,NULL,XRF,NULL
+AMDEL,XRF1L,SI-XRFL,NULL,XRF,"XRF analysis by pressed powder (long count time for improved detection limits).  XRF determines total values and is suitable for the analysis of drill core, rocks, stream sediments and soils."
+AMDEL_AD,Count,COUNT,NA,NA,Assay Count
+AMDEL_AD,FA001,FA001,FA,AAS,"Updated Amdel lab method Sept 2014, replaces method FA1PH"
+AMDEL_AD,FA002,FA002,FA,ICPOES,"Updated Amdel lab method Sept 2014, replaces method FA3"
+AMDEL_AD,FA1,FA40-AAS,FA,AAS,Similar to FA2 with a 40g charge
+AMDEL_AD,FA1PH,FA1PH,FA,AAS,NULL
+AMDEL_AD,FA2,FA-AAS,FA,AAS,"Nominal 20g charge analysed. Silver used as secondary collector, Au is determined with AAS finish. "
+AMDEL_AD,FA3,FA-ICPAES,FA,ICPAES,"Nominal 40g charge analysed. Silver used as secondary collector, Au, Pt, Pd determined with ICP quantification. "
+AMDEL_AD,GC007,GC007,SPF,SIE,"Updated Amdel lab method Sept 2014, replaces method SIE3S"
+AMDEL_AD,IC2E,IC2E,AR,ICPOES,NULL
+AMDEL_AD,IC3E,3A-ICPAES,HNP,ICPAES,"An aliquot of sample is accurately weighed and digested with a mixture of nitric, perchloric and hydrofluoric acids.  The digestion temperature and time is carefully controlled to near dryness, followed by a final dissolution in hydrochloric acid. "
+AMDEL_AD,IC3M,3A-ICPMS,HNP,ICPMS,Like 3a-ICP with MS finish
+AMDEL_AD,IC3R,3A-ICPMS,HNP,NA,It needs to be investigated and updated
+AMDEL_AD,IC4,LB-ICPOES,LMF,ICPOES,An aliquot of sample is accurately weighed and fused with lithium metaborate at high temperature in a Pt crucible.  The fused glass is then digested in nitric acid. This process provides complete dissolution of most minerals including silicates. Vola
+AMDEL_AD,IC4M,LB-ICPMS,LMF,ICPMS,An aliquot of sample is accurately weighed and fused with lithium metaborate at high temperature in a Pt crucible.  The fused glass is then digested in nitric acid. This process provides complete dissolution of most minerals including silicates. Vola
+AMDEL_AD,IC4PHR,IC4PHR,LMF,ICPOES/MS,NULL
+AMDEL_AD,IC4R,LB-ICPMSR,LMF,ICPMS,Rare Earth Elements - ICP-MS detection limits
+AMDEL_AD,LB100,LB100,LMF,ICPOES/MS,"Updated Amdel lab method Sept 2014, replaces method ICP4PHR"
+AMDEL_AD,LB101,LB101,LMF,ICPOES,"Updated Amdel lab method Sept 2014, replaces method ICP4PHR"
+AMDEL_AD,LB102,LB102,LMF,ICPMS,"Updated Amdel lab method Sept 2014, replaces method ICP4PHR"
+AMDEL_AD,MA201,MA201,AR,ICPOES,"Updated Amdel lab method Sept 2014, replaces method MET1PH"
+AMDEL_AD,MA202,MA202,AR,ICPMS,"Updated Amdel lab method Sept 2014, replaces method MET1PM"
+AMDEL_AD,MET1,AR-ICPAES,AR,ICPAES,modified aqua regia attack for multi-element suite by ICP
+AMDEL_AD,MET1PH,MET1PH,AR,ICPOES,NULL
+AMDEL_AD,MET1PM,MET1PM,AR,ICPMS,NULL
+AMDEL_AD,MET6A,MET6A,NA,LECO,NULL
+AMDEL_AD,SIE3S,SIE3S,NULL,NULL,Analysis for F for specific samples only as per attached
+AMDEL_AD,Sizing,SIZING,NA,NA,"The method ""weight"" was probably used for the screening of prepped samples as it involved weighing a set weight of sample, dry screening, weighing the oversize/undersize portions and calculating a % passing - probably 75 micron "
+AMDEL_AD,UNK,UNK,UK,UK,NULL
+AMDEL_AD,Weight,WEIGHT,NA,NA,Sample Weights
+AMDEL-AD,FA001,FA001,FA,AAS,Gold by Fire Assay with AAS finish
+AMDEL-AD,FA002,FA002,FA,ICP,NULL
+AMDEL-AD,GC007,GC007,SPC,SIE,"sodium/potassium carbonate fusion, digest ?  SIE finish"
+AMDEL-AD,LB100,LB100,LMF,AES/MS,"Lithium Borate Fusion, nitric acid digest MS if <400ppm else AE"
+AMDEL-AD,LB101,LB101,LMF,AES,"Lithium Borate Fusion, nitric acid digest, with AES finish"
+AMDEL-AD,LB102,LB102,LMF,MS,"Lithium Borate Fusion, nitric acid digest, with MS finish"
+AMDEL-AD,MA201,MA201,MA,AES,"Aka MET1PH, Modified acid digest AES finish"
+AMDEL-AD,MA202,MA202,MA,MS,Modified acid digest MS Finish
+AMDEL-AD,SIZING,SIZING,NA,SIVE,Size analysis by sieving
+ANA_AD,101,101,UK,UK,NULL
+ANA_AD,309,309,UK,UK,NULL
+ANA_AD,329,329,UK,UK,NULL
+ANA_AD,401,401,UK,UK,NULL
+BCLEGG,UNK,UNK,UNK,UNK,NULL
+CHEMEX,UNK,UNK,UNK,UNK,NULL
+CILSB,SeqNo,SeqNo,unk,NULL,Chinese
+GENAL_AD,4A/MS,4A/MS,HPHN,ICPMS,Four acid digest with HF
+GENAL_AD,4A/OE,4A/OE,HPHN,ICPOES,Four acid digest with HF
+GENAL_AD,4AB/_C,COUNT_4A-ICPOES,NA,NA,Count for 4AB/OE? Method
+GENAL_AD,4AB/_W,WEIGHT_4A-ICPOES,NA,NA,Weight for 4AB/OE?? Method
+GENAL_AD,4AB/MS,4A-ICPMS,HPHN,ICPMS,"Four acid digests, with the inclusion of hydrofluoric acid targeting silicates"
+GENAL_AD,4AB/MS_C,COUNT_4A-ICPMS,NA,NA,Count for 4AB/MS
+GENAL_AD,4AB/OE,4A-ICPOES,HPHN,ICPOES,"Four acid digests, with the inclusion of hydrofluoric acid targeting silicates,"
+GENAL_AD,4AHBr/_C,COUNT_4AICPOESOG,NA,NA,Count for 4AHBr/OE_OG? Method
+GENAL_AD,4AHBr/_W,WEIGHT_4AICPMSOG,NA,NA,Weight for 4AHBr Method
+GENAL_AD,4AHBr/MS,4A-ICPMS_OG,HPHN,ICPMS,"High grade sulphide ores are readily quantified using a 4 acid digest with an instrument finish that may include ICP-OES, ICP-MS or AAS, plus Bromine"
+GENAL_AD,4AHBr/MS_C,COUNT_4AICPMS_OG,NA,NA,Count for 4AHBr Method
+GENAL_AD,4AHBr/OE,4A-ICPOES_OG,NA,NA,Bromine
+GENAL_AD,FA25/_C,COUNT_FA25-AAS,NA,NA,Count for FA25 method
+GENAL_AD,FA25/_W,WEIGHT_FA25,NA,NA,Weight for FA25 method
+GENAL_AD,FA25/MS,FA-ICPMS,FA,ICPMS,"Fire assay, 25g, ICP-MS finish"
+GENAL_AD,FA25/MS_C,COUNT_FA-ICPMS,NA,NA,Count for FA25 ICPMS method
+GENAL_AD,FA50/AA,FA50-AAS,FA,AAS,"Fire Assay, 50g, AAS finish"
+GENAL_AD,FB6/_C,COUNT_LB-ICPOES,NA,NA,Count for FB6/OES? Method
+GENAL_AD,FB6/_W,WEIGHT_LB-ICPMS,NA,NA,Weight for FB6/OES? Method
+GENAL_AD,FB6/MS,LB-ICPMS,LMF,ICPMS,NULL
+GENAL_AD,FB6/MS_C,COUNT_LB-ICPMS,NA,NA,Count for FB6/MS method
+GENAL_AD,FB6/OE,LB-ICPOES,LMF,ICPOES,NULL
+GENAL_AD,FC7/SIE,FC7/SIE,FC,SIE,"Carbonate fusion, Selective Ion Electrode"
+GENAL_AD,SV04,SIZING,NA,NA,NULL
+GENAL_AD,WT01,WEIGHT,NA,NA,NULL
+GENAL_AD,WT02,WEIGHT1,NA,NA,NULL
+GENAL_PT,A/MS,4A-ICPMS,HPHN,ICPMS,"Multi-acid attack including hydrofluoric, nitric, perchloric and hydrochloric acids, ICPMS"
+GENAL_PT,A/OES,A-ICPOES,HPHN,ICPOES,"Multi-acid attack including hydrofluoric, nitric, perchloric and hydrochloric acids in teflon beakers. Suitable for dissolving silica based samples requiring low levels of detection. This digest approaches total dissolution for most minerals"
+GENAL_PT,AT/EOES,4A-ICPSOES,HPHN,ICPOES,"Multi-acid attack including hydrofluoric, nitric, perchloric and hydrochloric acids in teflon test tubes using our specially designed, microprocessor controlled digester,by enhanced sensitivity OES."
+GENAL_PT,AT/OES,4A-ICPOES,HPHN,ICPOES,"Multi-acid attack including hydrofluoric, nitric, perchloric and hydrochloric acids in teflon test tubes using our specially designed, microprocessor controlled digester."
+GENAL_PT,AX/OES,4A-ICPOES_OG,HPHN,ICPOES,"Multi-acid attack including hydrofluoric, nitric, perchloric and hydrochloric acids in teflon test tubes using our specially designed, microprocessor controlled digester,modified for high-precision ore-body evaluation of base metals"
+GENAL_PT,B/MS,B/MS,AR,ICPMS,NULL
+GENAL_PT,B/OES,B/OES,AR,ICPOES,NULL
+GENAL_PT,B/SAAS,B/SAAS,AR,SAAS,NULL
+GENAL_PT,CALC,CALC,NA,NA,Oxide calculations
+GENAL_PT,D/MS,DX-ICPMS,DX,ICPMS,Oxidative alkaline fusion using sodium peroxide as the flux in zirconium crucibles and  hydrochloric acid to dissolve the melt. Total dissolution for virtually all minerals. OES finish
+GENAL_PT,D/OES,DX-ICPOES,DX,OES,Oxidative alkaline fusion using sodium peroxide as the flux in zirconium crucibles and  hydrochloric acid to dissolve the melt. Total dissolution for virtually all minerals.
+GENAL_PT,FA25/AAS,FA25-AAS,FA,AAS,NULL
+GENAL_PT,FA25/SAAS,FA25-SAAS,FA,SAAS,NULL
+GENAL_PT,FA50/AAS,FA50-AAS,FA,AAS,NULL
+GENALYS,4AB/OE,MA-OES,MA,OES,NULL
+GENALYS,A/MS,MA-MS,MA,AS,Four Acid
+GENALYS,A/OES,4A-ICPAES,HPHN,ICPAES,NULL
+GENALYS,AT/AAS,MA-AAS,MA,AAS,It needs to be verified
+GENALYS,AT/MS,MA-ICPMS,MA,ICPMS,Four acid digest (including hydrofluoric acid) and ICPMS measurement
+GENALYS,AT/OES,4A-ICPAES-t,HPHN,ICPAES-t,NULL
+GENALYS,AX/AAS,AX/AAS,AX,AAS,NULL
+GENALYS,CALC,CALC,NULL,NULL,Calculated value
+GENALYS,FA/EMS,FA-ICPEMS,FA,EMS,NULL
+GENALYS,FA25/AAS,FA-AAS-25,FA,AAS,25g Lead Collection fire assay and flame AAS
+GENALYS,FA25/MS,FA-ICPMS-25,FA,MS,NULL
+GENALYS,FA25/OES,FA,FA,OES,NULL
+GENALYS,FA25N/EMS,FA-EMS-25,FA,EMS,NULL
+GENALYS,FA50/AAS,FA50-AAS,FA,AAS,50g Lead Collection fire assay and flame AAS
+GENALYS,FS/MS105,FS-MS,FS,MS,NULL
+GENALYS,FS/OES105,FS-OES,FS,OES,NULL
+GENALYS,GRAV,GRAV,NULL,NULL,NULL
+GENALYS,QAScreen,QAScreen,NA,VOL,NULL
+GENALYS,Seqno,Seqno,NULL,NULL,NULL
+INTERTEK,FA12,FA-GRAV-50,FA,GRAV,NULL
+INTERTEK,FA30,FA-AAS-30,FA,AAS,NULL
+LYNX,IC591,IC591,UNK,UNK,Historic
+LYNX,PM208,PM208,UNK,UNK,Historic
+MAS,FA/AAS,FA-AAS-50,FA,AAS,NULL
+MAS,Geo23ICP,AR-ICPAES,AR,ICPAES,Geochemical  23 elements  by aqua regia leach / ICP - ES determination. Offers good to excellent detection limits for a wide variety of base metals and pathfinder elements. 
+METSOLVE,FAS-111,FAS-111,AR,AAS,NULL
+METSOLVE,IMS-230,IMS-230,HPHN,ICPEMS,NULL
+METSOLVE,MSC-530,MSC-530,SFA,VARIOUS,NULL
+METSOLVE,PWE-100,PWE-100,NA,WEIGHT,NULL
+MIN-EN,UNK,UNK,UNK,UNK,NULL
+SRC,SRC-COLI,SRC-COLI,NA,COUNT,NULL
+SRC,SRC-MET,SRC-MET,NA,NA,NULL
+TSL,UNK,UNK,UNK,UNK,NULL
+ULTRA,Count,COUNT,NA,NA,Assay Count
+ULTRA,FA002,FA-ICPAES,FA,ICPAES,NULL
+ULTRA,FA003,FA003,FA,ICPMS,NULL
+ULTRA,ICP302,4A-ICPMS,4A,ICPMS,NULL
+UNK,IC587,IC587,UNK,UNK,Historic
+UNK,UNK,UNK,NULL,NULL,NULL
+ZCL,UNK,UNK,NULL,NULL,Unknown details for Lab ZCL

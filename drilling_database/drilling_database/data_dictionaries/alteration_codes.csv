@@ -1,0 +1,70 @@
+ALTSTYLE,CODE,DESCRIPTION,,,,ALTINTENSITY,CODE,DESCRIPTION
+AF,AF,"alteration,  fine grained",,,,TR,TR,VERY WEAK - Difficult to discern
+AV,AV,"alteration,  very fine grained",,,,2,2,Weak Alteration
+B,B,bedded,,,,IN,IN,INTENSE - Texture destructive
+BL,BL,blebby,,,,MD,MD,MODERATE - Readily apparent
+C,C,patch,,,,ST,ST,"STRONG - Very obvious, dominates rock texture"
+CC,CC,"patch,  coarse grained",,,,WK,WK,WEAK - Apparent
+CF,CF,"patch,  fine grained",,,,UN,UN,UNALTERED - Unaltered rock
+CM,CM,"patch,  medium grained",,,,,,
+CV,CV,"patch, very fine grained",,,,,,
+D,D,disseminated,,,,,,
+DF,DF,"disseminated,  fine grained",,,,ALTMINERAL,CODE,DESCRIPTION
+F,F,fracture coat*,,,,AA,AA,Andalusite
+FD,FD,fractured / disseminated,,,,AB,AB,Albite
+IF,IF,"stringer,  fine grained",,,,AC,AC,Actinolite
+IM,IM,"stringer,  medium grained",,,,AF,AF,Alkali Feldspar
+IV,IV,"stringer,  very fine grained",,,,AK,AK,Ankerite
+J,J,joint coating,,,,AL,AL,Alunite
+K,K,stockwork,,,,AM,AM,Amphibole
+KF,KF,"stockwork,  fine grained",,,,BA,BA,Barite
+M,M,massive,,,,BI,BI,Biotite
+O,O,oxide-pseudomorph,,,,CA,CA,Calcite
+P,P,pervasive,,,,CB,CB,Carbonate
+PF,PF,"pervasive,  fine grained",,,,CH,CH,Chlorite
+PM,PM,"pervasive,  medium grained",,,,CP,CP,Chalcopyrite
+S,S,selvage,,,,CY,CY,Clay
+SEL,SEL,Selective,,,,DO,DO,Dolomite
+SM,SM,"selvage,  medium grained",,,,DS,DS,Diopside
+ST,ST,Styolitic,,,,EP,EP,Epidote
+SV,SV,"selvage,  very fine grained",,,,FE,FE,Iron oxide
+U,U,vug,,,,FS,FS,Feldspar
+V,V,vein,,,,GN,GN,Garnet
+VV,Vv,"vein,  very fine grained",,,,GR,GR,Graphite
+X,X,breccia matrix,,,,HB,HB,Hornblende
+XF,XF,"breccia matrix,  fine grained",,,,HDG,HDG,Hematite - dark grey
+XM,XM,"breccia matrix,  medium grained",,,,HE,HE,Haematite
+XV,XV,"breccia matrix,  very fine grained",,,,HE,HE,Old_Hematite - red earthy
+,,,,,,HM,HM,Hematite
+,,,,,,HR,HR,old_Hematite - red rock
+,,,,,,HRE,HRE,Hematite - red earthy
+,,,,,,HRR,HRR,Hematite - red rock
+,,,,,,HS,HS,Old_Hematite - specular
+,,,,,,HSG,HSG,Hematite - steely grey
+,,,,,,HSP,HSP,Hematite - specular
+,,,,,,JA,JA,Jarosite
+,,,,,,KA,KA,Kaolinite
+,,,,,,KF,KF,K-Feldspar
+,,,,,,LM,LM,Limonite
+,,,,,,LX,LX,Leucoxene
+,,,,,,MN,MN,Manganese
+,,,,,,MN,MN,Manganese oxide
+,,,,,,MR,MR,Martite
+,,,,,,MT,MT,Magnetite
+,,,,,,MU,MU,Muscovite
+,,,,,,PH,PH,x_Anglo Gold /Newmont legacy codes
+,,,,,,PL,PL,Pitch Limonite
+,,,,,,PO,PO,Pyrrhotite
+,,,,,,PX,PX,Pyroxene
+,,,,,,PY,PY,Pyrite
+,,,,,,QC,QC,Quartz carbonate
+,,,,,,QT,QT,quartz
+,,,,,,SA,SA,scapolite
+,,,,,,SC,SC,Specularite
+,,,,,,SD,SD,Siderite
+,,,,,,SE,SE,Sericite
+,,,,,,SI,SI,Silica
+,,,,,,SP,SP,Sphalerite
+,,,,,,SS,SS,Serpentine - Undifferentiated
+,,,,,,TC,TC,Talc
+,,,,,,TO,TO,Tourmaline

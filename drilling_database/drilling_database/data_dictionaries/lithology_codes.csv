@@ -1,0 +1,396 @@
+﻿CATEGORY,CODE,DESCRIPTION
+LITH,CLAY,Clay
+LITH,NS,No Sample
+LITH_CODE,BCL,Chlorite Breccia
+LITH_CODE,BFL,Fault Breccia
+LITH_CODE,BHF,Hydrofractured Breccia
+LITH_CODE,BHM,Hematite Breccia
+LITH_CODE,BHQ,Hematite - Quartz Breccia
+LITH_CODE,BHY,Hyaloclastite Breccia
+LITH_CODE,BIF,Banded Iron Formation
+LITH_CODE,BKF,Karst Fill
+LITH_CODE,BMG,Magnetite Breccia
+LITH_CODE,BML,Float Breccia
+LITH_CODE,BQZ,Quartz Breccia
+LITH_CODE,BRC,Breccia
+LITH_CODE,BRD,Dolomitic Breccia
+LITH_CODE,BRE,Undifferentiated Breccia
+LITH_CODE,BRL,Limestone Breccia
+LITH_CODE,BVN,Vein Breccia
+LITH_CODE,CARB,x_Carbonate rock (IMX code)
+LITH_CODE,CAT,Cataclisite
+LITH_CODE,CBR,XCarbonate (Old Code-Do not use = SDO or SLM)
+LITH_CODE,CLA,Clay
+LITH_CODE,CLS,Core loss
+LITH_CODE,CSIL,x_Calc-silicate (IMX code)
+LITH_CODE,CVT,Cavity
+LITH_CODE,DSS,Disseminated Sulphides
+LITH_CODE,DYK,XPorphyritic dyke (Old Code-Do not use = IPO)
+LITH_CODE,FLT,XFelspathic lapilli tuff (Old Code-Do not use = VLF)
+LITH_CODE,FQP,XFeldspathic-quartz porphyry (Old Code-Do not use = IQP)
+LITH_CODE,FQT,XFelspathic quartz crystal tuff (Old Code-Do not use = VXF)
+LITH_CODE,FTZ,Fault Zone
+LITH_CODE,GOS,Gossan
+LITH_CODE,GRAN,>90% Granite
+LITH_CODE,GYP,Gypsum
+LITH_CODE,HMR,Hematite Rock
+LITH_CODE,HMRK,XHematite Rock (Old code - Do not use)
+LITH_CODE,HQBX,XHematite - Quartz Breccia (Old Code - Do not use)
+LITH_CODE,IAL,Aplite
+LITH_CODE,IAN,Anorthosite
+LITH_CODE,IDM,Microdiorite
+LITH_CODE,IDO,Dolerite
+LITH_CODE,IDR,Diorite
+LITH_CODE,IFS,Intrusive Felsic
+LITH_CODE,IGB,Gabbro
+LITH_CODE,IGD,Granodiorite
+LITH_CODE,IGN,Gabbronorite
+LITH_CODE,IGR,Granite
+LITH_CODE,IGT,Granitoid
+LITH_CODE,IIN,Instrusive Intermediate
+LITH_CODE,ILM,Lamprophyre
+LITH_CODE,IMD,Monzodiorite
+LITH_CODE,IMF,Intrusive Mafic
+LITH_CODE,IMK,Mafic Dyke
+LITH_CODE,IMZ,Monzonite
+LITH_CODE,INT,Norite
+LITH_CODE,IPG,Pegmatite
+LITH_CODE,IPX,Pyroxenite
+LITH_CODE,IQP,Quartz Porphyry
+LITH_CODE,IRN,Ironstone
+LITH_CODE,ISY,Syenite
+LITH_CODE,ITN,Tonalite
+LITH_CODE,IUM,Intrusive Ultramafic
+LITH_CODE,IVD,Undifferentiated Intrusive
+LITH_CODE,KCH,Chlorite Hematite±Epidote Skarn
+LITH_CODE,KCS,Calc-Silicate Skarn
+LITH_CODE,KSA,Amphibole Skarn
+LITH_CODE,KSC,Sulphide Chlorite Skarn
+LITH_CODE,KSM,Magnetite Skarn
+LITH_CODE,KSN,Skarn 
+LITH_CODE,LAL,Alluvium
+LITH_CODE,LCA,Calcrete
+LITH_CODE,LCO,Colluvium
+LITH_CODE,LCV,Undifferentiated Cover Sequence
+LITH_CODE,LCY,Permian Clay
+LITH_CODE,LDC,Laterite Duricrust
+LITH_CODE,LFE,Ferricrete
+LITH_CODE,LOS,Soil
+LITH_CODE,LPL,Plasmic Zone
+LITH_CODE,LSD,Sand
+LITH_CODE,LSI,Silcrete
+LITH_CODE,LSP,Saprolite
+LITH_CODE,LSR,Saprock
+LITH_CODE,MAM,Amphibolite
+LITH_CODE,MBF,Biotite Feldspar Gneiss
+LITH_CODE,MCB,Meta Carbonate
+LITH_CODE,MCS,Calc-Silicate
+LITH_CODE,MDO,Metadolomite
+LITH_CODE,MGG,Granitic Gneiss
+LITH_CODE,MGM,Migmatite
+LITH_CODE,MGN,gneiss
+LITH_CODE,MGR,Granulite
+LITH_CODE,MIG,Meta-igneous
+LITH_CODE,MMB,Marble
+LITH_CODE,MMG,Magnetite Gneiss
+LITH_CODE,MMP,Meta-Pelite
+LITH_CODE,MMR,Magnetite Rock
+LITH_CODE,MPG,Paragneiss
+LITH_CODE,MPH,Phyllite
+LITH_CODE,MPL,Interbedded Meta Carbonate - Meta Pelite
+LITH_CODE,MPM,Meta Psammite
+LITH_CODE,MPP,Meta Psammopelite
+LITH_CODE,MPT,Pelite
+LITH_CODE,MQF,Quartzofeldspathic Gneiss
+LITH_CODE,MQT,Quartzite
+LITH_CODE,MSC,Schist
+LITH_CODE,MSD,Meta-sandstone
+LITH_CODE,MSL,Metasiltstone
+LITH_CODE,MSS,Massive sulphide
+LITH_CODE,MST,Slate
+LITH_CODE,MTS,Metasomatite
+LITH_CODE,MUS,Meta-sediment
+LITH_CODE,MUV,Meta-volcanics
+LITH_CODE,NL,Not logged
+LITH_CODE,NS,No sampling
+LITH_CODE,QFP,XQuartz-feldspar porphyry (Old Code - Do not use = IQP)
+LITH_CODE,QTZ,Quartz/Silica
+LITH_CODE,SAK,Arkose Sandstone
+LITH_CODE,SAR,Arenite
+LITH_CODE,SBX,Sedimentary Breccia
+LITH_CODE,SCA,Calcareous sandstone
+LITH_CODE,SCG,Sedimentary Conglomerate
+LITH_CODE,SCH,Carbonaceous shale
+LITH_CODE,SCL,Claystone
+LITH_CODE,SCS,Calcareous shale
+LITH_CODE,SCT,Chert
+LITH_CODE,SDH,Dolomitic shale
+LITH_CODE,SDO,Dolostone
+LITH_CODE,SEL,Eluvium
+LITH_CODE,SGW,Greywacke
+LITH_CODE,SID,Interbedded Shale /Siltstone/Limestone/Dolomite
+LITH_CODE,SIS,Interbedded sandstone/siltstone
+LITH_CODE,SKF,Karst Fill
+LITH_CODE,SLL,Laminated limestone
+LITH_CODE,SLM,Limestone
+LITH_CODE,SMD,Mudstone
+LITH_CODE,SMT,Diamictite
+LITH_CODE,SSB,Interbedded Sandstone/Siltstone/Conglomerate & Breccia
+LITH_CODE,SSH,shale
+LITH_CODE,SSL,siltstone
+LITH_CODE,SST,Sandstone
+LITH_CODE,SWT,Wackestone
+LITH_CODE,UNK,Unknown
+LITH_CODE,VAN,Andesite
+LITH_CODE,VBA,Basaltic Andesite
+LITH_CODE,VBS,Basalt
+LITH_CODE,VBX,Volcanic Breccia
+LITH_CODE,VC,Vein calcite
+LITH_CODE,VCG,Volcanic Conglomerate
+LITH_CODE,VCI,Intermediate Volcaniclastic
+LITH_CODE,VCT,Crystal Tuff
+LITH_CODE,VCV,Volcaniclastics
+LITH_CODE,VDA,Dacite
+LITH_CODE,VFN,Fine Tuff
+LITH_CODE,VFS,Felsic Volcanics
+LITH_CODE,VFT,Felsic tuff
+LITH_CODE,VIN,Intermediate Volcanics
+LITH_CODE,VIT,Intermediate tuff
+LITH_CODE,VLP,Lapilli Tuff
+LITH_CODE,VMC, Mafic Volcanics
+LITH_CODE,VMO,XMicrodolerite (Old Code-Do not use = IMK)
+LITH_CODE,VQ,Vein quartz
+LITH_CODE,VRD,Rhyodacite
+LITH_CODE,VRP,Rhyodacite Porphyry
+LITH_CODE,VRY,Rhyolite
+LITH_CODE,VSB,Interbedded VSS/VSL/VSM & VBX
+LITH_CODE,VSC,Interbedded VSS/VSL/VSM & VCG
+LITH_CODE,VSL,Volcanic Siltstone
+LITH_CODE,VSM,Volcanic Mudstone
+LITH_CODE,VSS,Volcanic Sandstone
+LITH_CODE,VST,Interbedded VSS/VSL/VSM
+LITH_CODE,VTS,Tuff Siltstone
+LITH_CODE,VVL,Volcanics
+LITH_FACIES,DYK,Dyke
+LITH_FACIES,SLL,sill
+LITH_GRAINSIZE,MGR,Medium grained
+LITH_GRAINSIZE,VCG,very coarse grained
+LITH_QUALIFIER,CAT,Cataclastic
+LITH_QUALIFIER,CBR,Corbonification
+LITH_QUALIFIER,CLS,Alteration - Calc  -silicate
+LITH_QUALIFIER,DYK,Porphyritic (Dyke)
+LITH_QUALIFIER,GOS,Alteration - Gossanous
+LITH_QUALIFIER,GRAN,>90% Granite
+LITH_QUALIFIER,IGN,Extrusive - Ignimbritic
+LITH_QUALIFIER,INT,Interstitial
+LITH_QUALIFIER,MAM,Mamillary
+LITH_QUALIFIER,MGR,Medium grained
+LITH_QUALIFIER,MIG,Migmatitic
+LITH_QUALIFIER,MPH,Multiphase
+LITH_QUALIFIER,MUD,Muddy
+LITH_QUALIFIER,QFP,Quartzofeldspathic
+LITH_QUALIFIER,QTZ,Sediment - Quartzose
+LITH_QUALIFIER,QTZT,Metamorphic - Quartzite
+LITH_QUALIFIER,SCH,Schistose
+LITH_QUALIFIER,SHAL,Shale
+LITH_QUALIFIER,SLST,Siltstone
+LITH_QUALIFIER,SNST,Sandstone
+LITH_QUALIFIER,SST,x_Anglo Gold /Newmont legacy codes
+LITH_QUALIFIER,UNK,"x_Unknown, for code mapping only"
+LITH_QUALIFIER,VIT,Vitreous
+LithCode,BCL,Chlorite Breccia
+LithCode,BFL,Fault breccia
+LithCode,BHF,
+LithCode,BHM,
+LithCode,BHQ,Hematite Quartz Breccia
+LithCode,BHY,Hyaloclastite Breccia
+LithCode,BIF,
+LithCode,BKF,Karst Fill
+LithCode,BMG,
+LithCode,BML,
+LithCode,BQZ,Quartz Breccia
+LithCode,BRC,Breccia
+LithCode,BRD,Dolomitic Breccia
+LithCode,BRE,Undifferentiated breccia
+LithCode,BRL,
+LithCode,BVN,Vein Breccia
+LithCode,CARB,
+LithCode,CAT,Cataclasite
+LithCode,CBR,
+LithCode,CLA,Clay
+LithCode,CLS,Core loss
+LithCode,CSIL,
+LithCode,CVT,Cavity
+LithCode,CYST,Claystone - Eloise
+LithCode,DSS,
+LithCode,DYK,"Dyke, undifferentiated"
+LithCode,FLT,Float
+LithCode,FQP,
+LithCode,FQT,
+LithCode,FTZ,Fault zone
+LithCode,GOS,Gossan
+LithCode,GRAN,>90% Granite
+LithCode,GYP,Gypsum
+LithCode,HMR,
+LithCode,HMRK,Hematite Rock
+LithCode,IAL,Aplite
+LithCode,IAN,Anorthosite
+LithCode,IDM,Microdiorite
+LithCode,IDO,Dolerite
+LithCode,IDR,Diorite
+LithCode,IFS,
+LithCode,IGB,Gabbro
+LithCode,IGD,Granodiorite
+LithCode,IGN,Gabbronorite
+LithCode,IGR,Granite
+LithCode,IGT,Granitoid
+LithCode,IIN,Intermediate Intrusion
+LithCode,ILM,Lamprophyre
+LithCode,IMD,Monzodiorite
+LithCode,IMF,
+LithCode,IMK,
+LithCode,IMZ,Monzonite
+LithCode,INT,
+LithCode,IPG,Pegmatite
+LithCode,IPX,Pyroxenite
+LithCode,IQP,Quartz Porphyry
+LithCode,IRN,Ironstone
+LithCode,ISY,Syenite
+LithCode,ITN,Tonalite
+LithCode,IUM,
+LithCode,IVD,Undifferentiated Intrusive
+LithCode,KCH,Chlorite hematite epidote
+LithCode,KCS,Calc - silicate skan
+LithCode,KSA,Amphibole skarn
+LithCode,KSC,Sulphide chlorite skarn
+LithCode,KSM,Magentite skarn
+LithCode,KSN,Skarn (undifferentiated)
+LithCode,LAL,Alluvium
+LithCode,LCA,Calcrete
+LithCode,LCO,Colluvium
+LithCode,LCV,Undifferentiated Cover Sequence
+LithCode,LCY,
+LithCode,LDC,Laterite duricrust
+LithCode,LFE,Ferricrete
+LithCode,LOS,Soil
+LithCode,LPL,
+LithCode,LSD,Sand
+LithCode,LSI,Silcrete
+LithCode,LSP,Saprolite
+LithCode,LSR,Saprock
+LithCode,MAM,Amphibolite
+LithCode,MBF,
+LithCode,MCB,
+LithCode,MCS,
+LithCode,MDO,
+LithCode,MGG,Granitic Gneiss
+LithCode,MGM,Migmatite
+LithCode,MGN,Gniess
+LithCode,MGR,
+LithCode,MIG,Meta - igneous
+LithCode,MMB,Marble
+LithCode,MMG,Magnetite Gneiss
+LithCode,MMP,Meta-Pelite
+LithCode,MMR,
+LithCode,MPG,
+LithCode,MPH,Phyllite
+LithCode,MPL,
+LithCode,MPM,
+LithCode,MPP,
+LithCode,MPT,
+LithCode,MQF,
+LithCode,MQT,Quartzite
+LithCode,MSC,Schist
+LithCode,MSD,
+LithCode,MSL,
+LithCode,MSS,Massive sulphides
+LithCode,MST,Slate
+LithCode,MTS,
+LithCode,MTSM,Metasomatite - Eloise
+LithCode,MUD,Mud - Eloise
+LithCode,MUS,Meta - sediment
+LithCode,MUV,Meta - volcanics
+LithCode,NL,Not logged
+LithCode,NS,
+LithCode,QFP,
+LithCode,QTZ,Quartz/silica
+LithCode,SAK,NULL
+LithCode,SAR,Arenite
+LithCode,SBX,Sedimentary breccia
+LithCode,SCA,
+LithCode,SCG,Sedimentary congolomerate
+LithCode,SCH,
+LithCode,SCL,
+LithCode,SCS,
+LithCode,SCT,Chert
+LithCode,SDH,Dolomitic shale
+LithCode,SDO,Dolostone
+LithCode,SEL,
+LithCode,SGW,
+LithCode,SID,Interbedded silt/dolomite/limestone
+LithCode,SIS,Interbedded sandstone/siltstone
+LithCode,SKF,
+LithCode,SLL,Laminated limestone
+LithCode,SLM,Limestone
+LithCode,SMD,Mudstone
+LithCode,SMT,Diamictite
+LithCode,SOIL,Soil - Eloise
+LithCode,SSB,
+LithCode,SSH,Shale
+LithCode,SSL,Siltstone
+LithCode,SST,Interbedded sandstone/siltstone/shale
+LithCode,SWT,Wackestone
+LithCode,UNK,Unknown
+LithCode,VAN,Andesite
+LithCode,VBA,Basaltic Andesite 
+LithCode,VBS,Basalt
+LithCode,VBX,Volcanic breccia
+LithCode,VC,Vein calcite
+LithCode,VCG,Volcanic conglomerate
+LithCode,VCI,
+LithCode,VCT,Crystal tuff
+LithCode,VCV,Undifferentiated Volcanoclasitc
+LithCode,VDA,Dacite
+LithCode,VFN,
+LithCode,VFS,
+LithCode,VFT,
+LithCode,VIN,
+LithCode,VIT,
+LithCode,VLP,Lapilli tuff
+LithCode,VMC,
+LithCode,VMO,
+LithCode,VQ,
+LithCode,VRD,Rhyo - dacite
+LithCode,VRP,
+LithCode,VRY,Rhyolite
+LithCode,VSB,Interbedded VSS/VSL/VSM/VBX
+LithCode,VSC,Interbedded VSS/VSL/VSM/VCG
+LithCode,VSL,Volcanic siltstone
+LithCode,VSM,Volcanic mudstone
+LithCode,VSS,Volcanic sandstone
+LithCode,VST,Interbedded VSS/VSL/VSM
+LithCode,VTS,
+LithCode,VVL,Undifferentiated volcanics
+LithQual,cat,Cataclastic
+LithQual,cbr,Carbonification
+LithQual,CLA,Clayey - Eloise
+LithQual,CLS,Alteration - Calc  -silicate
+LithQual,dyk,Dyke
+LithQual,gos,Gossan / gossanous
+LithQual,GRAN,>90% Granite
+LithQual,ign,Ignimbritic
+LithQual,imd,Intermediate
+LithQual,int,Interstitial
+LithQual,mam,Mamilliary
+LithQual,mgr,Medium grain size
+LithQual,mig,Migmatitic
+LithQual,mph,Multiphase
+LithQual,mud,Muddy
+LithQual,qtz,Quartzose
+LithQual,QTZT,Metamorphic - Quartzite
+LithQual,sch,Schistose
+LithQual,SHAL,Shale
+LithQual,SLST,Siltstone
+LithQual,SNST,Sandstone
+LithQual,SST,x_Anglo Gold /Newmont legacy codes
+LithQual,vit,Vitreous
